@@ -1,0 +1,6 @@
+{
+  "s3_input": "s3://my-bucket/model.tar.gz",
+  "s3_output": "s3://my-bucket/output/",
+  "framework": "tensorflow",
+  "target_device": "ml_c5"
+}
